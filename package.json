@@ -1,6 +1,6 @@
 {
   "name": "compact-ioc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Compact Inversion of Control implementation",
   "main": "dist/CompactIOC.js",
   "jsnext:main": "src/CompactIOC.js",
