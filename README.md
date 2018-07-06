@@ -1,5 +1,8 @@
 compact-ioc [![Build Status]](https://travis-ci.org/rand0me/node-compact-ioc)
 ==========================================
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/rand0me/node-compact-ioc.svg)](https://greenkeeper.io/)
+
 [![NPM]](https://nodei.co/npm/compact-ioc/)
 
 ## Installation
